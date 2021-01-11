@@ -1,0 +1,1 @@
+val regex = Regex("""\d{0,2}\srings?""")

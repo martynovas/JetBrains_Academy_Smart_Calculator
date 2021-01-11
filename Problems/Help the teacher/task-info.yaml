@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // The previous code that forms the report
+
+    TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10729
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10729">JetBrains
+    Academy</a></html>
+  time: Sun, 10 Jan 2021 11:46:07 UTC
+record: -1

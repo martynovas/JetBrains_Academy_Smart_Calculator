@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backslash problem/Smart_Calculator.Problems-Backslash_problem.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Escapism/Smart_Calculator.Problems-Escapism.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exabytes/Smart_Calculator.Problems-Exabytes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Help the teacher/Smart_Calculator.Problems-Help_the_teacher.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/LCM/Smart_Calculator.Problems-LCM.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Matching/Smart_Calculator.Problems-Matching.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Percentage/Smart_Calculator.Problems-Percentage.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rings of Power/Smart_Calculator.Problems-Rings_of_Power.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Simple expression/Smart_Calculator.Problems-Simple_expression.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" />
+    </modules>
+  </component>
+</project>

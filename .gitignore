@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Problems/Exabytes/out/
+/Problems/Exabytes/out/production/classes/
+/Problems/LCM/out/
+/Problems/LCM/out/production/classes/
+/Problems/Matching/out/
+/Problems/Matching/out/production/classes/
+/Problems/Percentage/out/
+/Problems/Percentage/out/production/classes/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
